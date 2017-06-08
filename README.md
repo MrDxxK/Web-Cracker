@@ -1,7 +1,7 @@
 # Web-Cracker
 ### 总览
 ***
-[http://qinhuangdao.edeng.cn.w.kunlunea.com/yiti/ht](http://qinhuangdao.edeng.cn.w.kunlunea.com/yiti/ht)     
+[http://qinhuangdao.edeng.cn.w.kunlunea.com/yiti/](http://qinhuangdao.edeng.cn.w.kunlunea.com/yiti/)     
 
 这是一个骗子伪装QQ邮箱盗取用户账号密码的网页，于是就写了一个模拟发送数据的Python来跟它斗智斗勇
 ### 用法
